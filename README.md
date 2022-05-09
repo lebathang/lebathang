@@ -1,5 +1,5 @@
 ### Hi 👋 my name is Thang 😎	
-- 🤗 I'm a newbie at Github 🥳	
+- 🤗 I'm a newbie in Github 🥳	
 - 👉 and I'm a man student 👨‍🎓
 - 🏡 I'm living in a small city in `Việt Nam` 🇻🇳 👈 🏙️
 - ✍️ I want to study `code` and `how to write a program` 👀
