@@ -6,3 +6,9 @@
 - 💯	I'm very happy when you read my profile but I don't think my frofile is professtion 🙄	
 - 💬 this is the first time I create a repository so I hope you will like my profile 👍
 - ❤️	thank you so much for reading it ❤️	
+
+
+![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lebathang&repo=github-readme-stats&theme=midnight-purple&show_owner=true)](https://github.com/lebathang/lebathang)
