@@ -10,7 +10,6 @@
    
 ![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lebathang&repo=github-readme-stats&theme=midnight-purple&show_owner=true)](https://github.com/lebathang/lebathang)
 </p>
 
 ---
