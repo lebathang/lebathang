@@ -8,18 +8,16 @@
 - ❤️	thank you so much for reading it ❤️	
 <div align="center">
    
-![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple)
-   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lebathang&repo=github-readme-stats&theme=midnight-purple&show_owner=true)](https://github.com/lebathang/lebathang)
-   
+![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple)
 </p>
 
 ---
 <h3 align="center" h3
 <h3 align="left"> 🥰 Connect with me:</h3>
-<div align="center">
-<!-- <a href="https://discord.com/users/835488546897920021" > -->
-   <img src="https://lanyard.cnrad.dev/api/835488546897920021?idleMessage=I'm not currently doing anything! &animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"  />
+<p align="center">
+   
+[![Discord Presence](https://lanyard.cnrad.dev/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000)](https://discord.com/users/835488546897920021)
 </p>
 <p align="center">
   ❤️
