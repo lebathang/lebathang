@@ -1,4 +1,4 @@
-### Hi 👋 my name is Thang 😎	
+### Hi 👋 my nick name is Pr0vjp 😎	
 - 🤗 I'm a newbie in Github 🥳	
 - 👉 I'm a man student 👨‍🎓
 - 📝 And I'm studying English but it's very difficult 😭
