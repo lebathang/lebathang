@@ -1,7 +1,7 @@
-### Hi 👋 my nick name is Pr0vjp 😎	
+### Hi 👋 my name is Thang 😎	
 - 🤗 I'm a newbie in Github 🥳	
 - 👉 I'm a man student 👨‍🎓
-- 📝 And I'm studying English but it's very difficult 😭
+- 📝 And I'm studying English but I'm very lazy 😅
 - 🏡 I'm living in a small city in `Việt Nam` 🇻🇳 👈 🏙️
 - ✍️ I want to study `code` and `how to write a program` 👀
 - 💯	I'm very happy when you read my profile but I don't think my frofile is professtion 🙄	
