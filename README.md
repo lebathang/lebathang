@@ -4,7 +4,7 @@
 - 📝 And I'm studying English but I'm very lazy 😅
 - 🏡 I'm living in a small city in `Việt Nam` 🇻🇳 👈 🏙️
 - ✍️ I want to study `code` and `how to write a program` 👀
-- 💯	I'm very happy when you read my profile but I don't think my frofile is professtion 🙄	
+- 💯	I'm very happy when you read my profile but I don't think my profile is professtion 🙄	
 - 💬 this is the first time I create a repository so I hope you will like my profile 👍
 - ❤️	thank you so much for reading it ❤️	
 <div align="center">
