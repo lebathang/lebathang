@@ -11,6 +11,7 @@
    
 ![Thang's GitHub stats](https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   ![](https://komarev.com/ghpvc/?username=lebathang&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 </p>
 
 ---
