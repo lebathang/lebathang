@@ -17,10 +17,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/lebathang/lebathang" title="Go to Source">
-      <img align="left" width=480 src="https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true" />
+      <img align="left" width=400 src="https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true" />
     </a>
     <a href="https://github.com/lebathang/lebathang" title="Go to Source">
-      <img align="right" width=480 src="https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
