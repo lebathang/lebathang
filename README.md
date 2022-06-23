@@ -11,14 +11,19 @@
    
    ![](https://komarev.com/ghpvc/?username=lebathang&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 
-![Thang's GitHub stats](https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
 
- <h2 align="center">📊 Github Stats 📊</h2>
 <br>
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=lebathang&theme=react-dark"/>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/lebathang/lebathang" title="Go to Source">
+      <img align="left" width=480 src="https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true" />
+    </a>
+    <a href="https://github.com/lebathang/lebathang" title="Go to Source">
+      <img align="right" width=480 src="https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
 
 ---
 <h3 align="center" h3
@@ -39,3 +44,9 @@
 <a href="https://stackoverflow.com/users/19120952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19120952" height="30" width="40" /></a>
   ❤️
 </p>
+
+---
+<h2 align="center"> Github Stats </h2>
+<br>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=lebathang&theme=react-dark"/>
