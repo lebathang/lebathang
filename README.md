@@ -15,6 +15,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
 
+ <h2 align="center">📊 Github Stats 📊</h2>
+<br>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=lebathang&theme=react-dark"/>
+
 ---
 <h3 align="center" h3
 <h3 align="left"> 🥰 Connect with me:</h3>
@@ -22,6 +27,9 @@
    
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000)](https://discord.com/users/835488546897920021)
 </p>
+    
+</div>
+
 <p align="center">
   ❤️
 <a href="https://www.facebook.com/profile.php?id=100016824016369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lê bá thắng" height="30" width="40" /></a>
