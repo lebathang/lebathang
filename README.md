@@ -20,7 +20,7 @@
       <img align="left" width=390 src="https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true" />
     </a>
     <a href="https://github.com/lebathang/lebathang" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -46,7 +46,7 @@
 </p>
 
 ---
-<h2 align="center"> Github Stats </h2>
+<h2 align="center"> Github Contributions </h2>
 <br>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=lebathang&theme=react-dark"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=lebathang&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true"/>
