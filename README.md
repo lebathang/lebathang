@@ -1,3 +1,5 @@
+<a href="https://ibb.co/Cmct65L"><img src="https://i.ibb.co/RYFSNp8/standard-1.gif" alt="standard-1" border="0"></a>
+
 ### Hi 👋 my name is Thang 😎	
 - 🤗 I'm a newbie in Github 🥳	
 - 👉 I'm a man student 👨‍🎓
