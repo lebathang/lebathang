@@ -1,4 +1,8 @@
-![my gif](https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif)
+<div align="center">
+   
+      ![my gif](https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif)
+   
+</p>
 
 ### Hi 👋 my name is Thang 😎	
 - 🤗 I'm a newbie in Github 🥳	
