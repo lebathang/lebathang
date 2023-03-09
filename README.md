@@ -1,5 +1,8 @@
+<div align="center">
+   
 ![my gif](https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif)
-
+   
+</div>
 
 ### Hi 👋 my name is Thang 😎	
 - 🤗 I'm a newbie in Github 🥳	
@@ -10,6 +13,9 @@
 - 💯	I'm very happy when you read my profile but I don't think my profile is professtion 🙄	
 - 💬 this is the first time I create a repository so I hope you will like my profile 👍
 - ❤️	thank you so much for reading it ❤️	
+
+
+
 <div align="center">
    
    ![](https://komarev.com/ghpvc/?username=lebathang&color=blueviolet&style=flat&label=PROFILE+VIEWS)
