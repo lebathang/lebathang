@@ -54,7 +54,7 @@
 <h3 align="left"> 🥰 Connect with me:</h3>
 <p align="center">
    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1033033779159244883?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000)](https://discord.com/users/1033033779159244883)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000)](https://discord.com/users/835488546897920021)
 </p>
     
 </div>
