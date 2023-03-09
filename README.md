@@ -28,6 +28,13 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   
+  <div align="center">
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebathang&langs_count=8)
+
+
+</p>
+  
   <h2 align="center">📝 Extras 📝</h2>
   <details>
   <summary>Click to expand!</summary>
