@@ -39,7 +39,7 @@
   
   <div align="center">
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebathang&langs_count=8)
+   ![Top Langs](https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=lebathang&langs_count=8)
 
 
 </p>
