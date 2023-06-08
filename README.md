@@ -83,7 +83,7 @@
 <h2 align="center"> Github Contributions </h2>
 <br>
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lebathang&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true"/>
+    <img src="https://github-readme-activity-graph-weld.vercel.app/graph?username=lebathang&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true"/>
    
    
    
