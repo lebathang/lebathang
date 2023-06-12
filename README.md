@@ -24,10 +24,10 @@
                 📝 And I'm studying English but I'm very lazy 😅
             </li>
             <li>
-                🏡 I'm living in a small city in `Việt Nam` 🇻🇳 👈 🏙️
+                🏡 I'm living in a small city in <code>Việt Nam</code> 🇻🇳 👈 🏙️
             </li>
             <li>
-                ✍️ I want to study `code` and `how to write a program` 👀
+                ✍️ I want to study <code>code</code> and <code>how to write a program</code> 👀
             </li>
             <li>
                 💯 I'm very happy when you read my profile but I don't think my profile is professtion 🙄
