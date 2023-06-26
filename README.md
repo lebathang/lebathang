@@ -89,8 +89,10 @@
         </div>
         <br><br><br><br><br><br><br><br><br>
         <div align="center">
-            <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=lebathang&langs_count=8"
-                alt="top langs">
+                <a href="https://discord.com/channels/835488546897920021">    
+                    <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=lebathang&langs_count=8"
+                    alt="top langs">
+                <\a>
             </p>
         </div>
         <!-- <div>
