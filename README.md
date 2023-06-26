@@ -88,11 +88,9 @@
             </a>
         </div>
         <br><br><br><br><br><br><br><br><br>
-        <div align="center">
-                <a href="https://discord.com/channels/835488546897920021">    
+        <div align="center">    
                     <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=lebathang&langs_count=8"
-                    alt="top langs">
-                <\a>
+                    alt="top langs"/>
             </p>
         </div>
         <!-- <div>
@@ -116,8 +114,10 @@
         <div>
             <h3 align="center"> 🥰 Connect with me:</h3>
             <p align="center">
-                <img src="https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"
+                <a href="https://discord.com/channels/@me/835488546897920021">
+                    <img src="https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"
                     alt="connect discord">
+                </a>
             </p>
             <p align="center">
                 ❤️
