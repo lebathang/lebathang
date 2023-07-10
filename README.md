@@ -96,7 +96,7 @@
         </div>
         <br><br><br><br><br><br><br><br><br>
         <div align="center">    
-                    <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=lebathang&langs_count=8"
+                    <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=lebathang&theme=midnight-purple&&hide_border=truelangs_count=8"
                     alt="top langs"/>
             </p>
         </div>
