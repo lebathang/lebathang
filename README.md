@@ -159,13 +159,35 @@
             </details>
         </div> -->
         <!-- phần repo -->
-        <div >
+        <div>
+        <pre >
+                                           ,----------------,              ,---------,
+                                      ,-----------------------,          ,"        ,"|
+                                    ,"                      ,"|        ,"        ,"  |
+                                   +-----------------------+  |      ,"        ,"    |
+                                   |  .-----------------.  |  |     +---------+      |
+                                   |  |                 |  |  |     | -==----'|      |
+                                   |  |  WELCOME TO MY  |  |  |     |         |      |
+                                   |  |     PROFILE     |  |  |/----|`---=    |      |
+                                   |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
+                                   |  |                 |  |  |  // |(((( [33]|    ,"
+                                   |  `-----------------'  |," .;'| |((((     |  ,"
+                                   +-----------------------+  ;;  | |         |,"     -LEBATHANG-
+                                      /_)______________(_/  //'   | +---------+
+                                 ___________________________/___  `,
+                                /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+                               / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+                              /_==__==========__==_ooo__ooo=_/'   /___________,"
+                              `-----------------------------'
+        </pre>
+        </div>
+        <!-- <div >
             <p align="center">
                 <a href="https://github.com/lebathang/QuanLiThuVien"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien" alt="Readme Card"></a>
                 <a href="https://github.com/lebathang/Webside-An-Vat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat" alt="Readme Card"></a>
                 <a href="https://github.com/lebathang/lebathang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang" alt="Readme Card"></a>
             </p>
-        </div>
+        </div> -->
         <hr width="100%">
         <div>
             <h3 align="center"> 🥰 Connect with me:</h3>
