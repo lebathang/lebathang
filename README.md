@@ -22,7 +22,7 @@
         </p>
     </div>
     <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=lebathang&color=blueviolet&style=flat&label=PROFILE+VIEWS"
+        <img src="https://count.getloli.com/get/@lebathang?theme=gelboru"
             alt="view profile">
     </div>
     <hr width="100%">
