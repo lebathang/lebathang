@@ -25,6 +25,29 @@
         <img src="https://count.getloli.com/get/@lebathang?theme=gelboru"
             alt="view profile">
     </div>
+    <hr with="100%">
+        <div>
+        <pre >
+                                           ,----------------,              ,---------,
+                                      ,-----------------------,          ,"        ,"|
+                                    ,"                      ,"|        ,"        ,"  |
+                                   +-----------------------+  |      ,"        ,"    |
+                                   |  .-----------------.  |  |     +---------+      |
+                                   |  |                 |  |  |     | -==----'|      |
+                                   |  |  WELCOME TO MY  |  |  |     |         |      |
+                                   |  |     PROFILE     |  |  |/----|`---=    |      |
+                                   |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
+                                   |  |                 |  |  |  // |(((( [33]|    ,"
+                                   |  `-----------------'  |," .;'| |((((     |  ,"
+                                   +-----------------------+  ;;  | |         |,"     -LEBATHANG-
+                                      /_)______________(_/  //'   | +---------+
+                                 ___________________________/___  `,
+                                /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+                               / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+                              /_==__==========__==_ooo__ooo=_/'   /___________,"
+                              `-----------------------------'
+        </pre>
+        </div>
     <hr width="100%">
     <a href="https://app.daily.dev/lebathang"><img align="right"
             src="https://api.daily.dev/devcards/ee98497bac234fe4886bf7bd42098d69.png?r=etl" width="400"
@@ -159,28 +182,6 @@
             </details>
         </div> -->
         <!-- phần repo -->
-        <div>
-        <pre >
-                                           ,----------------,              ,---------,
-                                      ,-----------------------,          ,"        ,"|
-                                    ,"                      ,"|        ,"        ,"  |
-                                   +-----------------------+  |      ,"        ,"    |
-                                   |  .-----------------.  |  |     +---------+      |
-                                   |  |                 |  |  |     | -==----'|      |
-                                   |  |  WELCOME TO MY  |  |  |     |         |      |
-                                   |  |     PROFILE     |  |  |/----|`---=    |      |
-                                   |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
-                                   |  |                 |  |  |  // |(((( [33]|    ,"
-                                   |  `-----------------'  |," .;'| |((((     |  ,"
-                                   +-----------------------+  ;;  | |         |,"     -LEBATHANG-
-                                      /_)______________(_/  //'   | +---------+
-                                 ___________________________/___  `,
-                                /  oooooooooooooooo  .o.  oooo /,   \,"-----------
-                               / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
-                              /_==__==========__==_ooo__ooo=_/'   /___________,"
-                              `-----------------------------'
-        </pre>
-        </div>
         <!-- <div >
             <p align="center">
                 <a href="https://github.com/lebathang/QuanLiThuVien"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien" alt="Readme Card"></a>
