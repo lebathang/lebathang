@@ -8,8 +8,13 @@
 </head>
 
 <body>
-    <div align="center">
+    <!-- <div align="center">
         <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="ảnh gif">
+    </div> -->
+    <div align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9000FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+My+name+is+Thang.;I+am+a+Student+and+a+Developer.;I+Love+Security+And+Hacking." alt="Typing SVG" />
+    </a>
     </div>
     <div align ="center">
         <p>
@@ -151,7 +156,7 @@
         <div align=center>
             <a href="https://github.com/lebathang/lebathang" title="Go to Source">
                 <img align="left" width=390
-                    src="https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true" />
+                    src="https://github-readme-stats.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true" />
             </a>
             <a href="https://github.com/lebathang/lebathang" title="Go to Source">
                 <img align="right" width=390
@@ -160,7 +165,7 @@
         </div>
         <br><br><br><br><br><br><br><br><br>
         <div align="center">
-            <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=lebathang&theme=midnight-purple&&hide_border=truelangs_count=8"
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebathang&theme=midnight-purple&&hide_border=truelangs_count=8"
                 alt="top langs" />
             </p>
         </div>
